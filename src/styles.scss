@@ -1,0 +1,22 @@
+/* You can add global styles to this file, and also import other style files */
+$primary: #900;
+$enable-shadows: true;
+$prefix: "mo-";
+
+@import "~bootstrap/dist/css/bootstrap.css";
+@font-face {
+    font-family: '7lux';
+    src: url('./assets/home/Font/7LuxFont.ttf') ;
+}
+@font-face {
+    font-family: 'Azonix';
+    src: url('./assets/home/Font/azonix-font/Azonix-1VB0.otf');
+}
+@font-face {
+    font-family: 'Gigantic';
+    src: url('./assets/home/Font/gigantic-fs-font/GiganticFs-d9doR.ttf');
+}
+@font-face {
+    font-family: 'TexgyreadventorRegular';
+    src: url('./assets/home/Font/texgyreadventor-font/TexgyreadventorRegular-1meB.otf');
+}
